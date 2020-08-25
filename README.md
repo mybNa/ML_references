@@ -10,3 +10,6 @@ Here are some good references to learn ML concepts
 
 ### DS Concepts
 > https://medium.com/@alon.lek/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1
+
+## ML Course Lessons
+> https://course.fast.ai/videos/?lesson=1
